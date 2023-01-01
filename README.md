@@ -29,10 +29,6 @@ Users should be able to:
 
 ![Desktop View](./desktop-preview.jpg)
 
-## Mobile View
-
-![Mobile View 1](./design/mobile-design.jpg)
-
 ### Links
 
 - Solution URL: [https://github.com/daveman-stack/manage-landing-page](https://github.com/daveman-stack/manage-landing-page)
